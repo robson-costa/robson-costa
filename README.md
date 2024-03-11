@@ -1,5 +1,5 @@
-<a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ltm9wdvqlwqwjlh1qial" alt="trackgit-views" /></a>
-
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,dart,java,arduino,bsd,debian,ubuntu,vscode,flutter,androidstudio,git&theme=dark)](https://skillicons.dev)<br>
+<a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ltm9wdvqlwqwjlh1qial" alt="trackgit-views" /></a><br>
 ### Hi there 👋
 
 😁 My name is [Robson Costa](https://www.linkedin.com/in/robson-costa-68057055/) and i´m researcher and professor at [IFSC (Federal Instititute of Santa Catarina)](https://www.ifsc.edu.br) on south of Brazil.<br>
