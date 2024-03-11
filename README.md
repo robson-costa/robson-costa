@@ -6,10 +6,9 @@
 🏫 I´m also director of [AgroTechLab](https://agrotechlab.lages.ifsc.edu.br), a laboratory that develop IoT based technologies for agribusiness.<br>
 🌐 In this context, i´m the initiator of TTN community in the Lages city ([TTN/Lages](https://www.thethingsnetwork.org/community/lages/)).<br><br>
 
-🏢 As this is my private account on GitHub, here are private repositories of work i have done for some companies as well as [Controlle Innovation Ltda](https://github.com/controlle-innovation), which i´m co-founder.<br><br>
+🏢 As this is my private account on GitHub, here are private repositories of works i have done for some companies as well as [Controlle Innovation Ltda](https://github.com/controlle-innovation), which i´m co-founder.<br>
 🌱 I also have an institutional GitHub account ([here](https://github.com/robsoncosta-ifsc)), but all the repositories i work in are allocated at [AgroTechLab](https://github.com/AgroTechLab-IFSC).<br>
-👯 Most repositories at this last account are public and follow open source or open hardware licenses.<br>
-
+👯 Most repositories at this last account are public and follow open source or open hardware licenses.<br><br>
 
 Currently i act as IoT Solutions Architect, defining technologies to be used, since the hardware, passing through the firmware and all communication protocols until the bussiness layer with mobile and web applications.<br>
 I love programming and the languages ​i usually use are C and C++. For some specific works i use Python, Dart, JScript and Java.<br>
