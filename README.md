@@ -11,7 +11,7 @@
 👯 Most repositories at this last account are public and follow open source and open hardware licenses.<br>
 🌐 Furthermore, I´m the initiator of TTN community at the Lages city ([TTN/Lages](https://www.thethingsnetwork.org/community/lages/)).<br>
 
-## Embedded Systems Engineer
+### Embedded Systems Engineer
 🏭 As an embedded systems engineer, I´m co-founder of [Controlle Innovation Ltda](https://github.com/controlle-innovation), a company that creates IoT-based solutions for specific industrial demands (on-demand).<br>
 ✔️ I have already worked in the R&D department of [WEG S.A](https://weg.net), namely with the development of industrial communication interfaces (e.g.: Modbus RTU, Modbus TCP, MQTT, HTTP, CAN and EtherCAT) for industrial automation devices.<br>
 🐙 In this context I worked with several programming IDEs, such as Eclipse, IAR, Keil, VSCode and Zilinx IDE (FPGA), in addition to developing solutions on both bare metal projects and RTOS projects (MQX and FreeRTOS), as well as developing firmware for a wide range of sensors, actuators and microcontrollers (e.g.: Texas, Nordic, ST, Atmel, ESP32).<br>
