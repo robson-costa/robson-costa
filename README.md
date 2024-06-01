@@ -1,13 +1,13 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,dart,java,arduino,bsd,debian,ubuntu,vscode,flutter,androidstudio,git&theme=dark)](https://skillicons.dev)<br>
 <a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ltm9wdvqlwqwjlh1qial" alt="trackgit-views" /></a><br>
-### Hi there 👋
+## Hi there 👋
 
-😁 I´m [Robson Costa](https://www.linkedin.com/in/robson-costa-68057055/) embedded systems engineer and research professor from 🇧🇷 Lages-SC, in southern Brazil.<br>
+😁 I´m [Robson Costa](https://www.linkedin.com/in/robson-costa-68057055/) research professor and embedded systems engineer from Lages, Santa Catarina, in southern Brazil.<br>
 
-## Research Professor
+### Research Professor
 🏢 As a research professor, I work at [IFSC (Federal Instititute of Santa Catarina)](https://www.ifsc.edu.br).<br>
 🏫 I´m also coordinator of [AgroTechLab](https://agrotechlab.lages.ifsc.edu.br), a laboratory that develop IoT and AI based technologies for agribusiness.<br>
-🌱 You can found my institutional GitHub account ([here](https://github.com/robsoncosta-ifsc)), but all the repositories I work as research professor are allocated at [AgroTechLab](https://github.com/AgroTechLab-IFSC) Github account.<br>
+🌱 My institutional GitHub account can be founded [here](https://github.com/robsoncosta-ifsc), but all the repositories I work as research professor are allocated at [AgroTechLab](https://github.com/AgroTechLab-IFSC) Github account.<br>
 👯 Most repositories at this last account are public and follow open source and open hardware licenses.<br>
 🌐 Furthermore, I´m the initiator of TTN community at the Lages city ([TTN/Lages](https://www.thethingsnetwork.org/community/lages/)).<br>
 
