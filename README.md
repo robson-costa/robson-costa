@@ -2,7 +2,7 @@
 <a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ltm9wdvqlwqwjlh1qial" alt="trackgit-views" /></a><br>
 ## Hi there 👋
 
-😁 I´m [Robson Costa](https://www.linkedin.com/in/robson-costa-68057055/) research professor and embedded systems engineer from Lages, Santa Catarina, in southern Brazil.<br>
+😁 I´m [Robson Costa](https://www.linkedin.com/in/robson-costa-68057055/), research professor and embedded systems engineer from Lages, Santa Catarina, in southern Brazil.<br>
 
 ### Research Professor
 🏢 As a research professor, I work at [IFSC (Federal Instititute of Santa Catarina)](https://www.ifsc.edu.br).<br>
@@ -16,3 +16,9 @@
 ✔️ I have already worked in the R&D department of [WEG S.A](https://weg.net), namely with the development of industrial communication interfaces (e.g.: Modbus RTU, Modbus TCP, MQTT, HTTP, CAN and EtherCAT) for industrial automation devices.<br>
 🐙 In this context I worked with several programming IDEs, such as Eclipse, IAR, Keil, VSCode and Zilinx IDE (FPGA), in addition to developing solutions on both bare metal projects and RTOS projects (MQX and FreeRTOS), as well as developing firmware for a wide range of sensors, actuators and microcontrollers (e.g.: Texas, Nordic, ST, Atmel, ESP32).<br>
 💻 I also have experience in developing PCBs, specifying BOM (Bill of Materials), submitting designs for mass manufacturing and product certification.<br>
+
+<div>
+<a href="https://github.com/robson-costa">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-costa&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=robson-costa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
