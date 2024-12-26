@@ -17,9 +17,9 @@
 🐙 In this context I worked with several programming IDEs, such as Eclipse, IAR, Keil, VSCode and Zilinx IDE (FPGA), in addition to developing solutions on both bare metal projects and RTOS projects (MQX and FreeRTOS), as well as developing firmware for a wide range of sensors, actuators and microcontrollers (e.g.: Texas, Nordic, ST, Atmel, ESP32).<br>
 💻 I also have experience in developing PCBs, specifying BOM (Bill of Materials), submitting designs for mass manufacturing and product certification.<br>
 
-<div>
-<a href="https://github.com/robson-costa">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-costa&layout=compact&langs_count=7&theme=dracula"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robson-costa&layout=compact)](https://github.com/robson-costa/github-readme-stats)
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=robson-costa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<a href="https://github.com/robson-costa/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robson-costa&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/robson-costa/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robson-costa&repo=convoychat" />
+</a>
