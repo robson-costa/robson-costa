@@ -1,5 +1,4 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,dart,java,arduino,bsd,debian,ubuntu,vscode,flutter,androidstudio,git&theme=dark)](https://skillicons.dev)<br>
-<a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ltm9wdvqlwqwjlh1qial" alt="trackgit-views" /></a><br>
 ## Hi there 👋
 
 😁 I´m [Robson Costa](https://www.linkedin.com/in/robson-costa-68057055/), research professor and embedded systems engineer from Lages, Santa Catarina, in southern Brazil.<br>
